@@ -1,0 +1,6 @@
+2 acc eni-x 10.0.0.1 198.0.0.1 1234 443 6 1 60 ts ts ACCEPT OK
+2 acc eni-x 10.0.0.2 198.0.0.2 1235 443 6 1 60 ts ts ACCEPT OK
+2 acc eni-x 10.0.0.3 198.0.0.3 1236 443 6 1 60 ts ts ACCEPT OK
+2 acc eni-x 10.0.0.4 198.0.0.4 1244 25 6 1 60 ts ts ACCEPT OK
+2 acc eni-x 10.0.0.5 198.0.0.5 1245 25 6 1 60 ts ts ACCEPT OK
+2 acc eni-x 10.0.0.6 198.0.0.6 1300 9999 6 1 60 ts ts ACCEPT OK

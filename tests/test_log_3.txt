@@ -1,0 +1,5 @@
+2 acc eni-y 10.0.0.10 198.0.0.10 2000 68 17 1 60 ts ts ACCEPT OK
+2 acc eni-y 10.0.0.11 198.0.0.11 2001 68 17 1 60 ts ts ACCEPT OK
+2 acc eni-y 10.0.0.12 198.0.0.12 0 0 1 1 60 ts ts ACCEPT OK
+2 acc eni-y 10.0.0.13 198.0.0.13 3000 22 6 1 60 ts ts ACCEPT OK
+2 acc eni-y 10.0.0.14 198.0.0.14 3001 7777 17 1 60 ts ts ACCEPT OK
