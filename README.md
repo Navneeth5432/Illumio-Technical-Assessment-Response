@@ -1,4 +1,7 @@
-# Illumio-Technical-Assessment-Response
+# VPC-Flowlog-Tagger
+
+Response to technical assessment provided by Illumio
+
 Tool that reads an AWS Flow Log,
 applies a **(dstport, protocol) → tag** mapping from a CSV lookup table, and emits two
 CSV reports:
